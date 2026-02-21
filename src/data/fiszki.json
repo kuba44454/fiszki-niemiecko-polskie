@@ -1,0 +1,44 @@
+[
+  {
+    "niemiecki_slowo": "der Hund",
+    "polski_tlumaczenie": "pies",
+    "niemiecki_przyklad": "Der Hund bellt laut.",
+    "polski_przyklad": "Pies głośno szczeka."
+  },
+  {
+    "niemiecki_slowo": "das Haus",
+    "polski_tlumaczenie": "dom",
+    "niemiecki_przyklad": "Das Haus ist groß und alt.",
+    "polski_przyklad": "Dom jest duży i stary."
+  },
+  {
+    "niemiecki_slowo": "die Katze",
+    "polski_tlumaczenie": "kot",
+    "niemiecki_przyklad": "Die Katze schläft auf dem Sofa.",
+    "polski_przyklad": "Kot śpi na kanapie."
+  },
+  {
+    "niemiecki_slowo": "das Auto",
+    "polski_tlumaczenie": "samochód",
+    "niemiecki_przyklad": "Ich fahre ein schnelles Auto.",
+    "polski_przyklad": "Jeżdżę szybkim samochodem."
+  },
+  {
+    "niemiecki_slowo": "arbeiten",
+    "polski_tlumaczenie": "pracować",
+    "niemiecki_przyklad": "Ich muss heute lange arbeiten.",
+    "polski_przyklad": "Muszę dzisiaj długo pracować."
+  },
+  {
+    "niemiecki_slowo": "schnell",
+    "polski_tlumaczenie": "szybko",
+    "niemiecki_przyklad": "Er rennt sehr schnell.",
+    "polski_przyklad": "On biega bardzo szybko."
+  },
+  {
+    "niemiecki_slowo": "das Buch",
+    "polski_tlumaczenie": "książka",
+    "niemiecki_przyklad": "Ich lese ein interessantes Buch.",
+    "polski_przyklad": "Czytam interesującą książkę."
+  }
+]
