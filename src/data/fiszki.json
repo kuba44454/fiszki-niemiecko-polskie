@@ -1,44 +1,182 @@
 [
   {
-    "niemiecki_slowo": "der Hund",
-    "polski_tlumaczenie": "pies",
-    "niemiecki_przyklad": "Der Hund bellt laut.",
-    "polski_przyklad": "Pies głośno szczeka."
+    "niemiecki_slowo": "einer der (längsten)",
+    "polski_tlumaczenie": "jedna z...",
+    "niemiecki_przyklad": "Der Rhein ist einer der längsten Flüsse in Europa.",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "das Haus",
-    "polski_tlumaczenie": "dom",
-    "niemiecki_przyklad": "Das Haus ist groß und alt.",
-    "polski_przyklad": "Dom jest duży i stary."
+    "niemiecki_slowo": "am Steuerrad",
+    "polski_tlumaczenie": "za sterem (kołem sterowym)",
+    "niemiecki_przyklad": "Am Vormittag steht Herr Müller am Steuerrad.",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "die Katze",
-    "polski_tlumaczenie": "kot",
-    "niemiecki_przyklad": "Die Katze schläft auf dem Sofa.",
-    "polski_przyklad": "Kot śpi na kanapie."
+    "niemiecki_slowo": "die Aussicht",
+    "polski_tlumaczenie": "widok",
+    "niemiecki_przyklad": "Er schaut aus dem Fenster und genießt die Aussicht.",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "das Auto",
-    "polski_tlumaczenie": "samochód",
-    "niemiecki_przyklad": "Ich fahre ein schnelles Auto.",
-    "polski_przyklad": "Jeżdżę szybkim samochodem."
+    "niemiecki_slowo": "die Landschaft",
+    "polski_tlumaczenie": "krajobraz",
+    "niemiecki_przyklad": "Links und rechts sieht er wunderschöne Landschaften.",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "arbeiten",
-    "polski_tlumaczenie": "pracować",
-    "niemiecki_przyklad": "Ich muss heute lange arbeiten.",
-    "polski_przyklad": "Muszę dzisiaj długo pracować."
+    "niemiecki_slowo": "der Felsen",
+    "polski_tlumaczenie": "skała",
+    "niemiecki_przyklad": "Plötzlich ruft Herr Müller: „Schau mal, Max! Da vorne ist der Loreley-Felsen“",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "schnell",
-    "polski_tlumaczenie": "szybko",
-    "niemiecki_przyklad": "Er rennt sehr schnell.",
-    "polski_przyklad": "On biega bardzo szybko."
+    "niemiecki_slowo": "berühmt",
+    "polski_tlumaczenie": "znany",
+    "niemiecki_przyklad": "Der Felsen ist sehr berühmt und es gibt viele alte Legenden darüber.",
+    "polski_przyklad": ""
   },
   {
-    "niemiecki_slowo": "das Buch",
-    "polski_tlumaczenie": "książka",
-    "niemiecki_przyklad": "Ich lese ein interessantes Buch.",
-    "polski_przyklad": "Czytam interesującą książkę."
+    "niemiecki_slowo": "schmal",
+    "polski_tlumaczenie": "wąski",
+    "niemiecki_przyklad": "Der Fluss ist an dieser Stelle schmal und ein bisschen gefährlich.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "normalerweise",
+    "polski_tlumaczenie": "zazwyczaj",
+    "niemiecki_przyklad": "Die Reise dauert normalerweise ein paar Tage.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "am späten",
+    "polski_tlumaczenie": "późnym",
+    "niemiecki_przyklad": "Am späten Nachmittag wird das Wetter schlechter.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "vorsichtig",
+    "polski_tlumaczenie": "ostrożnie",
+    "niemiecki_przyklad": "Hier muss Herr Müller sehr langsam und vorsichtig fahren.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "klettern",
+    "polski_tlumaczenie": "wspinać się",
+    "niemiecki_przyklad": "Jan klettert zurück auf sein Schiff.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "Schön wäre es",
+    "polski_tlumaczenie": "fajnie by było",
+    "niemiecki_przyklad": "Schön wäre es.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "nach etwas duften (riechen)",
+    "polski_tlumaczenie": "pachnieć czymś",
+    "niemiecki_przyklad": "Es riecht leicht nach Desinfektionsmittel und frischer Luft.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "unter der Woche",
+    "polski_tlumaczenie": "w tygodniu",
+    "niemiecki_przyklad": "Unter der Woche, also von Montag bis Freitag.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "Wie sieht es mit...",
+    "polski_tlumaczenie": "jak jest z?",
+    "niemiecki_przyklad": "Und wie sieht es mit den Mitgliedschaften aus? Gibt es verschiedene Modelle?",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "einmalige / der Vertrag",
+    "polski_tlumaczenie": "jednorazowy / umowa",
+    "niemiecki_przyklad": "Bei beiden Verträgen kommt noch eine einmalige Anmeldegebühr von 20 Euro dazu.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "die Anweisung",
+    "polski_tlumaczenie": "instrukcje",
+    "niemiecki_przyklad": "Sein Schiff liegt an der Kaimauer und wartet auf neue Anweisungen.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "aufpassen",
+    "polski_tlumaczenie": "uważać",
+    "niemiecki_przyklad": "Pass auf dich auf.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "verstopft",
+    "polski_tlumaczenie": "zatkany",
+    "niemiecki_przyklad": "Wir hatten Probleme mit der Maschine. Ein Filter war verstopft.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "werfen",
+    "polski_tlumaczenie": "rzucać",
+    "niemiecki_przyklad": "Jan lacht und wirft ein Tau über den Poller.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "kratzen",
+    "polski_tlumaczenie": "drapać",
+    "niemiecki_przyklad": "Er kratzt sich am Kopf.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "die Auswahl",
+    "polski_tlumaczenie": "wybór",
+    "niemiecki_przyklad": "Ja, gerne. Ich suche ein Proteinpulver, aber die Auswahl ist echt kompliziert.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "vermeiden",
+    "polski_tlumaczenie": "unikać",
+    "niemiecki_przyklad": "Ich habe gelesen, dass manche Produkte Aspartam enthalten. Das möchte ich lieber vermeiden.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "niedriger",
+    "polski_tlumaczenie": "niższy (ciężar)",
+    "niemiecki_przyklad": "Der Eiweißanteil ist etwas niedriger als beim Whey, aber die Qualität ist top.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "vergleichen",
+    "polski_tlumaczenie": "porównywać",
+    "niemiecki_przyklad": "Markus vergleicht beide Dosen.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "der Kopfhörer",
+    "polski_tlumaczenie": "słuchawki",
+    "niemiecki_przyklad": "An der Beinpresse sitzt ein Mann mit Kopfhörern.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "sparen",
+    "polski_tlumaczenie": "oszczędzać",
+    "niemiecki_przyklad": "Gute Idee, das spart Zeit.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "abwechselnd",
+    "polski_tlumaczenie": "na zmianę",
+    "niemiecki_przyklad": "Verstehe. Können wir uns vielleicht abwechseln? Dann können wir die Maschine zusammen benutzen.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "dran sein",
+    "polski_tlumaczenie": "mieć swoją kolej",
+    "niemiecki_przyklad": "Danach bist du dran.",
+    "polski_przyklad": ""
+  },
+  {
+    "niemiecki_slowo": "gemeinsam",
+    "polski_tlumaczenie": "wspólnie / razem",
+    "niemiecki_przyklad": "Gemeinsam trainieren motiviert sowieso mehr. Los geht’s!",
+    "polski_przyklad": ""
   }
 ]
