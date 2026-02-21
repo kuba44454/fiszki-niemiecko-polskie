@@ -1,4 +1,5 @@
-[
+{
+  "1": [
   {
     "niemiecki_slowo": "einer der (längsten)",
     "polski_tlumaczenie": "jedna z...",
@@ -118,8 +119,10 @@
     "polski_tlumaczenie": "rzucać",
     "niemiecki_przyklad": "Jan lacht und wirft ein Tau über den Poller.",
     "polski_przyklad": ""
-  },
-  {
+  }
+],
+  "2": [
+      {
     "niemiecki_slowo": "kratzen",
     "polski_tlumaczenie": "drapać",
     "niemiecki_przyklad": "Er kratzt sich am Kopf.",
@@ -179,4 +182,13 @@
     "niemiecki_przyklad": "Gemeinsam trainieren motiviert sowieso mehr. Los geht’s!",
     "polski_przyklad": ""
   }
-]
+  ],
+  "3": [],
+  "4": [],
+  "5": [],
+  "6": [],
+  "7": [],
+  "8": [],
+  "9": [],
+  "10": []
+}
